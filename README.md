@@ -20,11 +20,12 @@
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?logo=mysql)
 
-### Backend
+### Backend e Frontend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express)
 ![Django](https://img.shields.io/badge/-Django-000?logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+[![React](https://img.shields.io/badge/-React.js-000?logo=react)](https://react.dev/)
 
 
 ### Banco de Dados
@@ -42,12 +43,6 @@
 - 🔹 **TeamScope** – Sistema para monitorar o rendimento de equipes e apoiar a tomada de decisões com ultilização de **IA**.
 - 🔹 **APIs RESTful** com Node.js e Flask
 - 🔹 Projetos voltados para **dados e automação**
-
-
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGoiz&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGoiz&layout=compact&theme=dark&hide_border=true)
-
 
 ---
 
